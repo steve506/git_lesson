@@ -7,5 +7,3 @@ This is a third change to the file.
 Git is a version control system that prevents us from having the "final doc" problem.
 
 This is a commit that I am not aware of, or one that i have forgotten about.
-
-This is a line in the file that I do not want.
